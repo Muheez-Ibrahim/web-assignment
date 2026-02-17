@@ -1,0 +1,33 @@
+h1{
+    color:blue;
+    background:yellow;
+}
+p{
+    color:white;
+    background:brown;
+}
+h2{
+    color:aliceblue;
+    background:palevioletred;
+}
+h6{
+    color:white;
+    background:red;
+}
+li{
+    font-size:50px;
+}
+p{
+    letter-spacing:6px;
+    word-spacing:15px;
+    line-height:15px;
+    }
+h2{
+    font-weight:700;
+}
+p{
+    font-style:normal;
+    text-decoration: underline;
+    text-transform:capitalize;
+    text-align:justify;
+}
